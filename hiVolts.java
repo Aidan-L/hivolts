@@ -3,7 +3,7 @@
  */
 // Problems we have encountered so far have been with respect to drawing the board and moving the mhos
 // We have chosen to use a 12x12 2D array to store all of the board positions 
-// Note: more detailed comments will come later (for now I do not want to put in too many comments, as the code might
+// Note: more detailed comments will come later (for now we do not want to put in too many comments, as the code might
 // change)
 
 // Imports
