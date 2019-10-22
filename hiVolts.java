@@ -26,7 +26,7 @@ public class hiVolts extends JFrame implements KeyListener {
 	int[][] boardPos = new int[12][12];
 	int[] counterPos = new int[2];
 
-	// This draws the board
+	// This method draws the board to a size of 12x12
 	public void drawboard(Graphics g) {
 		for(int col = 0; col<12; col++) {
 			for(int row = 0; row<12; row++) {
